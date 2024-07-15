@@ -60,7 +60,7 @@ Este é um projeto de uma página simples que lista links importantes, permitind
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 <h2 id="contribuicao">🤝 Contribuições</h2>
-##
+
 Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request ou abrir uma issue para sugestões de melhorias.
 
 <h2 id="licenca">📝 Licença</h2>
