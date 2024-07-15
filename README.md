@@ -1,7 +1,7 @@
 <h1 align="center"> LinksPages </h1>
 
 <p align="center">
-Projeto desenvolvido durante o curso Discover da <a href="https://www.rocketseat.com.br/discover">Rocketseat</a>!
+Projeto desenvolvido durante o curso Discover da <a href="https://www.rocketseat.com.br/discover">Rocketseat</a>! Clique <a href="https://zsantz.github.io/linksPage/">aqui</a> para acessar o projeto.
 </p>
 
 <p align="center">
